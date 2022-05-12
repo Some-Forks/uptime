@@ -9,11 +9,14 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
+assignees:
+  - shirosweets
+
 status-website:
   baseUrl: /upptime
   logoUrl: assets/health.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** is monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
