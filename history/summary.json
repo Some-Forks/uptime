@@ -16,7 +16,7 @@
     "timeMonth": 295,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2022-06-15": 768,
+      "2022-06-15": 805,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -58,19 +58,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 350,
-    "timeWeek": 268,
-    "timeMonth": 252,
-    "timeYear": 236,
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 241,
+    "timeDay": 369,
+    "timeWeek": 280,
+    "timeMonth": 256,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 36
     }
   },
   {
